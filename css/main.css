@@ -1,0 +1,80 @@
+/* Simple, clean stylesheet for True Beauty catalog */
+:root{
+	--bg: #fffdf8;
+	--surface: #ffffff;
+	--muted: #7a6b5a;
+	--accent: #c9876b; /* warm terracotta */
+	--accent-dark: #b36f56;
+	--text: #34271f;
+	--radius: 10px;
+	--container: 1100px;
+}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+	margin:0;
+	font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	color:var(--text);
+	background:linear-gradient(180deg,var(--bg),#fff);
+	-webkit-font-smoothing:antialiased;
+}
+
+.container{max-width:var(--container);margin:0 auto;padding:0 1rem}
+
+.site-header{background:var(--surface);border-bottom:1px solid #f0e6dd}
+.header-inner{display:flex;align-items:center;justify-content:space-between;padding:1rem 0}
+.brand h1{margin:0;font-size:1.4rem;color:var(--text)}
+.brand .tag{margin:0;color:var(--muted);font-size:.9rem}
+.main-nav a{margin-left:1rem;color:var(--muted);text-decoration:none}
+.main-nav a:hover{color:var(--accent-dark)}
+
+.hero{padding:2.5rem 0}
+.hero-inner{display:flex;gap:2rem;align-items:center}
+.hero-text h2{margin:0;font-size:2rem}
+.hero-text p{color:var(--muted);margin:.5rem 0 1rem}
+.btn{display:inline-block;background:var(--accent);color:#fff;padding:.6rem 1rem;border-radius:8px;text-decoration:none}
+.hero-image{flex:1;background-image:url('https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=60');background-size:cover;background-position:center;height:220px;border-radius:12px}
+
+.section-title{font-size:1.4rem;margin-top:1.5rem}
+.lead{color:var(--muted);margin-bottom:1rem}
+
+.catalog-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
+.card{background:var(--surface);border-radius:var(--radius);overflow:hidden;box-shadow:0 6px 18px rgba(52,39,31,0.06);display:flex;flex-direction:column}
+.card img{width:100%;height:180px;object-fit:cover;display:block}
+.card-body{padding:1rem}
+.card-body h3{margin:.2rem 0 .6rem}
+.card-body p{color:var(--muted);margin:0 0 .8rem}
+.card-link{color:var(--accent-dark);text-decoration:none;font-weight:600}
+
+.about{padding:1rem 0}
+.about-list{columns:2;gap:1rem;margin:0;padding-left:1rem;color:var(--muted)}
+
+.contact-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem;margin-top:1rem}
+.contact-card{background:#fff;padding:1rem;border-radius:8px;border:1px solid #f2e9e0;text-align:center}
+.contact-card h3{margin:.2rem 0 .6rem}
+.contact-card a{color:var(--accent-dark);text-decoration:none}
+
+.site-footer{border-top:1px solid #f0e6dd;padding:1rem 0;margin-top:2rem}
+.footer-inner{display:flex;justify-content:space-between;align-items:center}
+.small{color:var(--muted);font-size:.9rem}
+
+/* Responsive */
+@media (max-width:1000px){
+	.catalog-grid{grid-template-columns:repeat(2,1fr)}
+	.contact-grid{grid-template-columns:repeat(2,1fr)}
+	.hero-inner{flex-direction:column}
+	.hero-image{width:100%;height:200px}
+}
+
+@media (max-width:640px){
+	.catalog-grid{grid-template-columns:1fr}
+	.contact-grid{grid-template-columns:1fr}
+	.about-list{columns:1}
+	.footer-inner{flex-direction:column;gap:.5rem}
+	.main-nav{display:none}
+}
+
+/* Utility */
+.text-center{text-align:center}
+

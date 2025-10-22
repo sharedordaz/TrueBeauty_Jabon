@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>True Beauty - Productos artesanales</title>
+	<link rel="stylesheet" href="css/main.css">
+	<meta name="description" content="True Beauty - Jabones, cremas y velas 100% artesanales. Recuerdos personalizados y velas aromáticas de temporada.">
+	<link rel="icon" href="/favicon.ico">
+</head>
+<body>
+	<header class="site-header">
+		<div class="container header-inner">
+			<div class="brand">
+				<h1>True Beauty</h1>
+				<p class="tag">Artesanal · Natural · Hecho a mano</p>
+			</div>
+			<nav class="main-nav">
+				<a href="#catalogo">Catálogo</a>
+				<a href="#sobre-nosotros">Sobre nosotros</a>
+				<a href="#contacto">Contacto</a>
+			</nav>
+		</div>
+	</header>
+
+	<section class="hero">
+		<div class="container hero-inner">
+			<div class="hero-text">
+				<h2>Productos 100% artesanales</h2>
+				<p>Jabones, cremas y velas aromáticas hechas con dedicación para cuidar tu piel y tu hogar.</p>
+				<a class="btn" href="#catalogo">Ver catálogo</a>
+			</div>
+			<div class="hero-image" aria-hidden="true"></div>
+		</div>
+	</section>
+
+	<main class="container">
+		<section id="catalogo" class="catalog">
+			<h2 class="section-title">Catálogo</h2>
+			<p class="lead">Elige entre nuestras secciones: recuerdos para eventos, velas aromáticas de temporada y modelos disponibles todo el año.</p>
+
+			<div class="catalog-grid">
+				<article class="card">
+					<img src="https://via.placeholder.com/400x300?text=Recuerdos" alt="Recuerdos personalizados" loading="lazy">
+					<div class="card-body">
+						<h3>Recuerdos para cualquier evento</h3>
+						<p>Detalles y recuerdos personalizados ideales para bodas, bautizos, cumpleaños y más. Podemos adaptar diseño y fragancia.</p>
+						<a class="card-link" href="#contacto">Pedir información</a>
+					</div>
+				</article>
+
+				<article class="card">
+					<img src="https://via.placeholder.com/400x300?text=Velas+Temporada" alt="Velas aromáticas de temporada" loading="lazy">
+					<div class="card-body">
+						<h3>Velas aromáticas de temporada</h3>
+						<p>Ediciones especiales para Día de Muertos, Navidad y San Valentín con fragancias y empaques temáticos.</p>
+						<a class="card-link" href="#contacto">Pedir información</a>
+					</div>
+				</article>
+
+				<article class="card">
+					<img src="https://via.placeholder.com/400x300?text=Velas+Todo+el+a%C3%B1o" alt="Velas todo el año" loading="lazy">
+					<div class="card-body">
+						<h3>Velas disponibles todo el año</h3>
+						<p>Modelos clásicos como rosas, conejos y otras figuras que ofrecemos permanentemente.</p>
+						<a class="card-link" href="#contacto">Pedir información</a>
+					</div>
+				</article>
+			</div>
+		</section>
+
+		<section id="sobre-nosotros" class="about">
+			<h2 class="section-title">Descripción del negocio</h2>
+			<p class="lead">En <strong>True Beauty</strong> nos especializamos en la elaboración de productos <em>100% artesanales</em>, creados con dedicación y cuidado para ofrecerte una experiencia natural y única.</p>
+			<ul class="about-list">
+				<li>Jabones para manos y cuerpo</li>
+				<li>Cremas corporales y faciales</li>
+				<li>Velas aromáticas que transforman cualquier espacio</li>
+				<li>Recuerdos personalizados para eventos</li>
+			</ul>
+			<p>Cada producto refleja nuestro compromiso con la <strong>calidad, el bienestar y la belleza natural</strong>.</p>
+		</section>
+
+		<section id="contacto" class="contact">
+			<h2 class="section-title">Contacto</h2>
+			<p>Puedes comunicarte con nosotros por WhatsApp, teléfono o correo. También estamos en Facebook.</p>
+			<div class="contact-grid">
+				<div class="contact-card">
+					<h3>WhatsApp</h3>
+					<p><a href="https://wa.me/525561157097" target="_blank" rel="noopener">5561157097</a></p>
+				</div>
+				<div class="contact-card">
+					<h3>Teléfono</h3>
+					<p>5549342440</p>
+				</div>
+				<div class="contact-card">
+					<h3>Correo</h3>
+					<p><a href="mailto:trueb.tiendaenlinea@gmail.com">trueb.tiendaenlinea@gmail.com</a></p>
+				</div>
+				<div class="contact-card">
+					<h3>Facebook</h3>
+					<p><a href="https://www.facebook.com/truebeuty.edomex/" target="_blank" rel="noopener">/truebeuty.edomex</a></p>
+				</div>
+			</div>
+		</section>
+	</main>
+
+	<footer class="site-footer">
+		<div class="container footer-inner">
+			<p>© <span id="year"></span> True Beauty — Productos artesanales</p>
+			<p class="small">Diseño sencillo para catálogo. Contáctanos para pedidos personalizados.</p>
+		</div>
+	</footer>
+
+	<script>
+		// Small script to set current year
+		document.getElementById('year').textContent = new Date().getFullYear();
+	</script>
+</body>
+</html>
+
