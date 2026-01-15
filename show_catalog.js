@@ -1,6 +1,8 @@
 console.log('show_catalog.js loaded');
 catalog = document.querySelector('.catalog-grid'); 
 
+
+//The fricking function to create cards. Cooler!
 function createCard(product) {
     const card = document.createElement('article');
     card.className = 'card';
