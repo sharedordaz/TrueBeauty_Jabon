@@ -1,0 +1,203 @@
+{
+  "productos": {
+    "jabones": [
+      {
+        "nombre": "Jabón de Lavanda",
+        "descripcion": "Jabón artesanal con aceites esenciales de lavanda, ideal para relajación",
+        "imagen": "images/1.jpeg"
+      },
+      {
+        "nombre": "Jabón de Rosas",
+        "descripcion": "Jabón suave con pétalos de rosa natural y aroma floral",
+        "imagen": "images/2.jpeg"
+      },
+      {
+        "nombre": "Jabón de Avena y Miel",
+        "descripcion": "Jabón exfoliante natural con avena y miel orgánica",
+        "imagen": "images/3.jpeg"
+      },
+      {
+        "nombre": "Jabón de Caléndula",
+        "descripcion": "Jabón suave con propiedades calmantes de caléndula",
+        "imagen": "images/13.jpeg"
+      },
+      {
+        "nombre": "Jabón de Almendras",
+        "descripcion": "Jabón hidratante con aceite de almendras dulces",
+        "imagen": "images/14.jpeg"
+      },
+      {
+        "nombre": "Jabón de Coco",
+        "descripcion": "Jabón nutritivo con aceite de coco orgánico",
+        "imagen": "images/15.jpeg"
+      },
+      {
+        "nombre": "Jabón de Aloe Vera",
+        "descripcion": "Jabón refrescante con aloe vera natural",
+        "imagen": "images/16.jpeg"
+      },
+      {
+        "nombre": "Jabón de Manzanilla",
+        "descripcion": "Jabón suave con extracto de manzanilla",
+        "imagen": "images/17.jpeg"
+      },
+      {
+        "nombre": "Jabón de Arcilla",
+        "descripcion": "Jabón purificante con arcilla natural",
+        "imagen": "images/18.jpeg"
+      }
+    ],
+    "velas_temporada": [
+      {
+        "nombre": "Vela Día de Muertos",
+        "descripcion": "Vela aromática decorada con motivos tradicionales mexicanos",
+        "imagen": "images/4.jpeg",
+        "temporada": "octubre-noviembre"
+      },
+      {
+        "nombre": "Vela Navideña Pino",
+        "descripcion": "Vela con aroma a pino y decoración navideña",
+        "imagen": "images/5.jpeg",
+        "temporada": "diciembre"
+      },
+      {
+        "nombre": "Vela San Valentín",
+        "descripcion": "Vela aromática en forma de corazón con aroma a rosas",
+        "imagen": "images/6.jpeg",
+        "temporada": "febrero"
+      },
+      {
+        "nombre": "Vela Halloween",
+        "descripcion": "Vela decorativa con diseños de Halloween",
+        "imagen": "images/19.jpeg",
+        "temporada": "octubre"
+      },
+      {
+        "nombre": "Vela Navidad Canela",
+        "descripcion": "Vela navideña con aroma a canela y especias",
+        "imagen": "images/20.jpeg",
+        "temporada": "diciembre"
+      },
+      {
+        "nombre": "Vela Primavera",
+        "descripcion": "Vela floral para temporada primaveral",
+        "imagen": "images/21.jpeg",
+        "temporada": "marzo-mayo"
+      }
+    ],
+    "velas_permanentes": [
+      {
+        "nombre": "Vela Rosa Clásica",
+        "descripcion": "Vela aromática en forma de rosa, disponible todo el año",
+        "imagen": "images/7.jpeg"
+      },
+      {
+        "nombre": "Vela Conejo",
+        "descripcion": "Vela decorativa en forma de conejo, perfecta para regalo",
+        "imagen": "images/8.jpeg"
+      },
+      {
+        "nombre": "Vela Cilíndrica Aromática",
+        "descripcion": "Vela clásica cilíndrica con variedad de aromas",
+        "imagen": "images/9.jpeg"
+      },
+      {
+        "nombre": "Vela Mariposa",
+        "descripcion": "Vela decorativa en forma de mariposa",
+        "imagen": "images/22.jpeg"
+      },
+      {
+        "nombre": "Vela Esférica",
+        "descripcion": "Vela redonda con acabado brillante",
+        "imagen": "images/23.jpeg"
+      },
+      {
+        "nombre": "Vela Flor de Loto",
+        "descripcion": "Vela decorativa en forma de flor de loto",
+        "imagen": "images/24.jpeg"
+      },
+      {
+        "nombre": "Vela Espiral",
+        "descripcion": "Vela decorativa en espiral",
+        "imagen": "images/25.jpeg"
+      },
+      {
+        "nombre": "Vela Cubo",
+        "descripcion": "Vela geométrica en forma de cubo",
+        "imagen": "images/26.jpeg"
+      },
+      {
+        "nombre": "Vela Luna",
+        "descripcion": "Vela decorativa en forma de luna creciente",
+        "imagen": "images/27.jpeg"
+      }
+    ],
+    "recuerdos": [
+      {
+        "nombre": "Mini Jabón Boda",
+        "descripcion": "Pequeño jabón decorativo personalizado para bodas",
+        "imagen": "images/10.jpeg"
+      },
+      {
+        "nombre": "Vela Bautizo",
+        "descripcion": "Vela pequeña decorada para bautizo o primera comunión",
+        "imagen": "images/11.jpeg"
+      },
+      {
+        "nombre": "Set Cumpleaños",
+        "descripcion": "Set de mini vela y jabón para recuerdo de cumpleaños",
+        "imagen": "images/12.jpeg"
+      },
+      {
+        "nombre": "Recuerdo XV Años",
+        "descripcion": "Set especial para quinceañeras",
+        "imagen": "images/28.jpeg"
+      },
+      {
+        "nombre": "Mini Set Aniversario",
+        "descripcion": "Set conmemorativo para aniversarios",
+        "imagen": "images/29.jpeg"
+      },
+      {
+        "nombre": "Recuerdo Baby Shower",
+        "descripcion": "Delicado set para baby shower",
+        "imagen": "images/30.jpeg"
+      },
+      {
+        "nombre": "Set Primera Comunión",
+        "descripcion": "Elegante set para primera comunión",
+        "imagen": "images/31.jpeg"
+      },
+      {
+        "nombre": "Mini Vela Graduación",
+        "descripcion": "Vela conmemorativa para graduación",
+        "imagen": "images/32.jpeg"
+      },
+      {
+        "nombre": "Set Bautizo Especial",
+        "descripcion": "Set premium para bautizo",
+        "imagen": "images/33.jpeg"
+      },
+      {
+        "nombre": "Recuerdo Compromiso",
+        "descripcion": "Set elegante para fiesta de compromiso",
+        "imagen": "images/34.jpeg"
+      },
+      {
+        "nombre": "Mini Set Confirmación",
+        "descripcion": "Set especial para confirmación",
+        "imagen": "images/35.jpeg"
+      },
+      {
+        "nombre": "Recuerdo Despedida",
+        "descripcion": "Set para despedida de soltera",
+        "imagen": "images/36.jpeg"
+      },
+      {
+        "nombre": "Set Especial Eventos",
+        "descripcion": "Set personalizable para eventos diversos",
+        "imagen": "images/37.jpeg"
+      }
+    ]
+  }
+}

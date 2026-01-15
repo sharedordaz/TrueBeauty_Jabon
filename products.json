@@ -1,0 +1,300 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "name": "Jabón Caléndula de Muertos",
+      "description": "Jabón artesanal inspirado en las flores de cempasúchil. Elaborado con caléndula natural y esencias de flores aromáticas. Ideal para honrar a nuestros seres queridos con una experiencia sensorial mágica.",
+      "image": "images/1.jpeg",
+      "price": 45.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 2,
+      "name": "Jabón Lavanda Ancestral",
+      "description": "Jabón de lavanda pura con toques de incienso tradicional mexicano. Su aroma envolvente representa la conexión entre el mundo de los vivos y los difuntos. Perfecto para rituales de remembranza.",
+      "image": "images/2.jpeg",
+      "price": 50.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 3,
+      "name": "Jabón Marigold & Myrrh",
+      "description": "Combinación única de maravilla y mirra. Jabón que combina la belleza visual con aromas que evocan las tradiciones ancestrales. Hecho para rendirle tributo a la memoria.",
+      "image": "images/3.jpeg",
+      "price": 55.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 4,
+      "name": "Jabón Vela de Alma",
+      "description": "Inspirado en las velas que iluminan los altares. Jabón aromático con notas de cera y flores secas. Su textura artesanal representa la fragilidad y belleza de la vida.",
+      "image": "images/4.jpeg",
+      "price": 48.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 5,
+      "name": "Jabón Rosa Mexicana",
+      "description": "Pétalos de rosa natural combinados con aromas tradicionales mexicanos. Un jabón delicado que simboliza el amor eterno hacia quienes ya no están con nosotros.",
+      "image": "images/5.jpeg",
+      "price": 52.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 6,
+      "name": "Jabón Chocolate & Copal",
+      "description": "Fusión mágica entre el chocolate prehispánico y el aroma del copal sagrado. Jabón que despierta los sentidos y conecta con nuestras raíces ancestrales.",
+      "image": "images/6.jpeg",
+      "price": 60.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 7,
+      "name": "Jabón Vainilla Espectral",
+      "description": "Vainilla mexicana pura envuelta en aromas misteriosos. Un jabón que evoca la dulzura de los recuerdos y la calidez de los espíritus que regresan.",
+      "image": "images/7.jpeg",
+      "price": 48.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 8,
+      "name": "Jabón Miel de Abejas Sagradas",
+      "description": "Miel orgánica mexicana mezclada con propóleos y flores de temporada. Un jabón dorado que suaviza la piel mientras honra la memoria de nuestros antepasados.",
+      "image": "images/8.jpeg",
+      "price": 52.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 9,
+      "name": "Jabón Sándalo Eterno",
+      "description": "Aroma profundo y meditativo de sándalo asiático con toque de incienso mexicano. Perfecto para momentos de contemplación y conexión espiritual.",
+      "image": "images/9.jpeg",
+      "price": 58.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 10,
+      "name": "Jabón Naranja de Ofrenda",
+      "description": "Cítrico fresco de naranjas mexicanas combinado con aromas florales. Simboliza la luz que guía a las almas en su viaje por el más allá.",
+      "image": "images/10.jpeg",
+      "price": 46.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 11,
+      "name": "Jabón Tubeosa Nocturna",
+      "description": "Aroma nocturno y envolvente de la tubeosa. Jabón que fragancia como las flores que florecen bajo la luz de la luna durante las noches de celebración.",
+      "image": "images/11.jpeg",
+      "price": 54.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 12,
+      "name": "Jabón Alcanfor Purificador",
+      "description": "Jabón con alcanfor natural para limpiar y purificar. Utilizado en rituales tradicionales para alejar energías negativas y dar la bienvenida a los difuntos.",
+      "image": "images/12.jpeg",
+      "price": 49.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 13,
+      "name": "Jabón Gardenia Embrujada",
+      "description": "Flores de gardenia blanca capturadas en jabón artesanal. Su aroma delicado representa la inocencia y la belleza eterna de quienes recordamos.",
+      "image": "images/13.jpeg",
+      "price": 51.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 14,
+      "name": "Jabón Almendra Celestial",
+      "description": "Aceite de almendra dulce con notas de vainilla y almíbar. Jabón que evoca la dulzura de la pan de muerto y las tradiciones culinarias prehispánicas.",
+      "image": "images/14.jpeg",
+      "price": 47.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 15,
+      "name": "Jabón Coco del Trópico Oscuro",
+      "description": "Leche de coco con esencias tropicales y notas misteriosas. Jabón que transporta entre la realidad y el mundo espiritual de forma sensorial.",
+      "image": "images/15.jpeg",
+      "price": 50.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 16,
+      "name": "Jabón Aloe Vera Sanador",
+      "description": "Aloe vera fresco combinado con hierbas medicinales tradicionales. Repara la piel mientras te conecta con la sabiduría ancestral de sanación.",
+      "image": "images/16.jpeg",
+      "price": 48.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 17,
+      "name": "Jabón Manzanilla Serena",
+      "description": "Manzanilla mexicana cultivada en tierra sagrada. Jabón tranquilo que calma la mente y el cuerpo durante las noches de vigilia y remembranza.",
+      "image": "images/17.jpeg",
+      "price": 46.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 18,
+      "name": "Jabón Arcilla Mágica",
+      "description": "Arcilla volcánica purificante del corazón de México. Desentrañadora de energías, conecta profundamente con las raíces terrestres de nuestros ancestros.",
+      "image": "images/18.jpeg",
+      "price": 49.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 19,
+      "name": "Jabón Rosas Encantadas",
+      "description": "Pétalos de rosas rojas desecadas con esencias florales. Cada uso es una caricia de amor eterno hacia quienes viven en nuestro corazón.",
+      "image": "images/19.jpeg",
+      "price": 53.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 20,
+      "name": "Jabón Ámbar Resinoso",
+      "description": "Resina de ámbar con notas de madera oscura y especias. Jabón que evoca el incienso antiguo quemado en templos prehispánicos.",
+      "image": "images/20.jpeg",
+      "price": 57.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 21,
+      "name": "Jabón Jazmín Nocturno",
+      "description": "Jazmín capturado en su máxima fragancia nocturna. Aroma intoxicante que hipnotiza y transporta entre mundos durante las celebraciones de muertos.",
+      "image": "images/21.jpeg",
+      "price": 55.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 22,
+      "name": "Jabón Vino Tinto Misterioso",
+      "description": "Inspirado en los vinos de ofrenda con notas de uva y especias. Jabón sofisticado que honra los placeres terrenales disfrutados por quienes recordamos.",
+      "image": "images/22.jpeg",
+      "price": 59.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 23,
+      "name": "Jabón Canela Ancestral",
+      "description": "Canela de Ceilán pura envuelta en aromas acaramelados. Despierta recuerdos de reuniones familiares y dulces tradiciones mexicanas.",
+      "image": "images/23.jpeg",
+      "price": 51.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 24,
+      "name": "Jabón Orquídea Silvestre",
+      "description": "Orquídeas silvestres capturadas en forma de jabón. Exótico y raro, representa la belleza fugaz de la vida y la eternidad del espíritu.",
+      "image": "images/24.jpeg",
+      "price": 62.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 25,
+      "name": "Jabón Nenúfar Acuático",
+      "description": "Nenúfares blancos con aromas acuáticos frescos. Flota como las almas en el río del más allá, llevando bendiciones y paz.",
+      "image": "images/25.jpeg",
+      "price": 50.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 26,
+      "name": "Jabón Pimienta Negra Ardiente",
+      "description": "Pimienta negra molida con notas especiadas y ahumadas. Jabón vigorizante que trae fuego espiritual y protección ancestral.",
+      "image": "images/26.jpeg",
+      "price": 48.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 27,
+      "name": "Jabón Bergamota Luminosa",
+      "description": "Bergamota cítrica con brillo de sol tropical. Representa la luz que guía las almas y la esperanza que persiste en la oscuridad.",
+      "image": "images/27.jpeg",
+      "price": 47.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 28,
+      "name": "Jabón Loto Sagrado",
+      "description": "Loto blanco con esencias orientales y toques mexicanos. Símbolo de transformación y renacimiento espiritual en el ciclo eterno.",
+      "image": "images/28.jpeg",
+      "price": 56.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 29,
+      "name": "Jabón Clavo Místico",
+      "description": "Clavo de olor tradicional molido finamente con maderas oscuras. Aroma que abre puertas entre mundos y facilita la comunicación espiritual.",
+      "image": "images/29.jpeg",
+      "price": 49.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 30,
+      "name": "Jabón Iris Púrpura",
+      "description": "Flores de iris púrpura con tonos de lavanda profunda. Conecta con la espiritualidad elevada y la transformación del alma.",
+      "image": "images/30.jpeg",
+      "price": 54.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 31,
+      "name": "Jabón Jengibre Vigorizante",
+      "description": "Jengibre fresco con notas picantes y reconfortantes. Calor espiritual que fluye por el cuerpo y conecta con la energía vital ancestral.",
+      "image": "images/31.jpeg",
+      "price": 48.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 32,
+      "name": "Jabón Hibisco Floreado",
+      "description": "Hibisco rojo intenso con aromas florales de la tierra tropical. Belleza y fragilidad capturadas en jabón artesanal.",
+      "image": "images/32.jpeg",
+      "price": 50.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 33,
+      "name": "Jabón Cardamomo Exótico",
+      "description": "Cardamomo verde fragante con tonos especiados únicos. Aroma que invoca la riqueza y la abundancia de las tradiciones prehispánicas.",
+      "image": "images/33.jpeg",
+      "price": 52.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 34,
+      "name": "Jabón Lirio Espiritual",
+      "description": "Lirios blancos puros con esencias celestiales. Representa la pureza del alma y su elevación hacia los reinos superiores.",
+      "image": "images/34.jpeg",
+      "price": 55.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 35,
+      "name": "Jabón Nuez Moscada Caliente",
+      "description": "Nuez moscada con calidez de chocolate y especias. Jabón reconfortante para momentos de introspección y conexión familiar.",
+      "image": "images/35.jpeg",
+      "price": 49.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 36,
+      "name": "Jabón Vetiver Profundo",
+      "description": "Vetiver terroso con raíces que llegan al corazón de la tierra. Anchura espiritual y conexión con los ancestros viviendo en el subsuelo sagrado.",
+      "image": "images/36.jpeg",
+      "price": 58.00,
+      "category": "jabones_dia_de_muertos"
+    },
+    {
+      "id": 37,
+      "name": "Jabón Mirto Eterno",
+      "description": "Mirto sagrado con aromas que trascienden el tiempo. El último jabón de la colección, representa el ciclo infinito de la vida y la muerte.",
+      "image": "images/37.jpeg",
+      "price": 61.00,
+      "category": "jabones_dia_de_muertos"
+    }
+  ]
+}
